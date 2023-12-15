@@ -1,0 +1,11 @@
+.header {
+  background-color: black;
+  height: 4rem;
+  text-align: center;
+}
+
+.header_content {
+  color: white;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
